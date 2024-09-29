@@ -1,15 +1,15 @@
 {
 	"AboutUsList": [
 		{
-			"AboutUsHeader": {
+			
 				"header": {
 					"title": "Tea Time",
 					"sub_title": "Tea Time",
 					"description": "Tea Time",
 					"image_url": "https://teatimegroup.com/wp-content/uploads/2022/03/Banner-2.jpg",
 					"cover_image_url": "https://teatimegroup.com/wp-content/uploads/2022/03/Banner-2.jpg"
-				}
-			},
+				},
+			
 			"AboutUsDetail": {
 				"title": "About Us",
 				"image_url": "https://teatimegroup.com/wp-content/uploads/2022/03/aboutusimag.png",

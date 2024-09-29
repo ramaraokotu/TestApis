@@ -56,7 +56,17 @@
                 "title": "TEA BLENDS that are created with",
                 "image_url": "https://teatimegroup.com/wp-content/uploads/2022/03/Images-1.jpg",
                 "cover_image_url": "https://teatimegroup.com/wp-content/uploads/2022/03/Images-1.jpg"
-            }
+            },
+            
+               "images": [
+    "https://teatimegroup.com/wp-content/uploads/2022/06/New2.png",
+    " https://teatimegroup.com/wp-content/uploads/2022/06/New1.png",
+    "https://teatimegroup.com/wp-content/uploads/2022/06/New2.png",
+    " https://teatimegroup.com/wp-content/uploads/2022/06/New1.png",
+    "https://teatimegroup.com/wp-content/uploads/2022/06/New2.png"
+  ]
+        
+            
         }
     ]
 }
